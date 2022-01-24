@@ -1,0 +1,21 @@
+.carusel_box{
+  width: 100%;
+  height: 400px;
+  justify-content: space-around;
+  align-items: center;
+  // outline: 1px solid red;
+}
+.carusel_item{
+  position: relative;
+  width: 20%;
+  height: 80%;
+  // outline: 1px solid red;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  
+
+}

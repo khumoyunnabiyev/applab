@@ -1,0 +1,136 @@
+.girl_h1{
+    color: #242F51;
+    
+}
+.img_box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: #FFECEF;
+}
+.col_border{
+    border-right: 2px solid gray;
+}
+.girl_text{
+    width: 447px;
+
+}
+.get_you{
+    width: 267px;
+}
+.design_h1{
+    color: #242F51;
+    width: 350px;
+}
+.why_you{
+    color: #242F51;
+}
+.the_rise_p{
+    width: 642px;
+    text-align: center;
+}
+.get_you2{
+    width: 267px;
+    text-align: center;
+
+}
+.ultimat_col{
+    width: 350px;
+    color: #242F51;
+}
+.txtget{
+    color: #242F51;
+    width: 576px;
+    text-align: center;
+}
+.txt_the_rise{
+    text-align: center;
+    width: 700px;
+}
+.box{
+    // outline: 1px solid red;
+    width: 340px;
+    height: 60px;
+    border: 2px solid gray;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.home_btn{
+    padding: 14px 50px;
+    margin-top: 15px;
+    border-radius: 40px !important;
+}
+.content_box{
+    border: 1px solid #f0ecec;
+    text-align: center;
+    border-radius: 10px;
+    // background-color: red;
+}
+.content_box1{
+    width: 100%;
+    height: 240px;
+    background-color: #F6F8FA;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.content_name{
+    color: #242F51;
+    font-weight: bold;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content_name_span{
+    font-size: 18px;
+    color: gray;
+    font-weight: 500;
+}
+.content_class{
+    color: #242F51;
+}
+.content_info{
+    color: gray;
+}
+.content_info{
+    color: gray;
+    text-align: center;
+    margin-top: 30px;
+}
+.cont_btn{
+    padding: 13px 40px;
+    border: 2px #2563FF solid;
+    border-radius: 30px;
+    background-color: #2563FF;
+    color: white;
+    font-weight: bold;
+    transition: all .4s ease;
+    &:hover{
+        color: #2563FF;
+        background-color: white;
+    }
+    
+
+}
+.content_name1{
+    color: red;
+    font-weight: bold;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+  
+   
+
+

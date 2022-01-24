@@ -1,0 +1,111 @@
+.meet{
+    width: 100%;
+    height: 600px;
+    background-image: url(/img/peoples.png);
+    background-repeat: no-repeat;
+    background-size: 820px;
+    background-position: left;
+    margin-top: 50px;
+}
+.meet_name{
+    color: #242F51;
+    font-size: 36px;
+    font-weight: bold;
+    width: 470px;
+}
+.meet_stars{
+    color: #ffff2d;
+    font-size: 18px;
+    margin-right: 5px;
+
+}
+.meet_carusel_name{
+    text-align: start;
+    color: #242F51;
+}
+.meet_carusel_coment{
+    text-align: start;
+    color: gray;
+    width: 500px;
+}
+.meet_carusel_name_name{
+    color: #242F51;
+}
+.meet_carusel_name_info{
+    color: gray;
+    font-size: 24px;
+}
+.data-prev{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-top: 50%;
+    margin-left: 70%;
+    background-color:grey;
+}
+.asked_name{
+    color: #242F51;
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+.asked_info{
+    width: 635px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.download_name{
+    font-size: 36px;
+    color: #242F51;
+}
+.footer{
+    height: 400px;
+    background-color: #09142E;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.footer_menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    width: 630px;
+   
+
+}
+.footer_item{
+    display: flex;
+    font-size: 20px;
+}
+.footer_link{
+    display: flex;
+    color: white;
+    font-size: 18px !important;
+    text-decoration: none;
+    &:hover{
+        text-decoration: none;
+    }
+}
+.menu_icon{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    width: 200px;
+}
+.menu_icon_link{
+    font-size: 26px;
+    margin: 10px;
+    color: grey;
+}
+.footer_link{
+    font-size: 14px;
+    color: gray;
+}
+.kkhmm{
+    color: gray;
+    font-size: 18px;
+}
